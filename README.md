@@ -1,4 +1,4 @@
-![alt text goes here](https://github.com/Mihai-Simedrea/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/Mihai-Simedrea/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
